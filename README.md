@@ -1,6 +1,6 @@
 # Simpletron 
 ### 프로젝트 개요
-> SML(Simpletron Machine Language) 로 작동되는 <b>기계어 프로그램</b>을 만드는 코딩 과제입니다.</br>
+> <b>SML(Simpletron Machine Language)</b> 로 작동되는 <b>기계어 프로그램</b>을 만드는 코딩 과제입니다.</br>
 > 컴퓨터를 "완전히 열고" 내부 구조를 살펴봤습니다.
 
 </br>
